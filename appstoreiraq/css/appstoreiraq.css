@@ -1,0 +1,21 @@
+/*
+
+css code by abdullah omar @abodie984
+
+
+*/
+
+
+
+.des{
+     background: #fff;
+     box-shadow:0 5px 4px rgba(0,0,0,.3);
+     margin: 10px;
+     position:relative;
+     border-radius:2px;
+     font-size: 14px;
+     -webkit-tap-highlight-color:transparent;
+ }
+ .des>b{
+ 	font-size: 20px;
+ }
